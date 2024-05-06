@@ -1,6 +1,6 @@
-package com.sparta.jk.service;
+package com.service;
 
-import com.sparta.jk.entity.UserEntity;
+import com.entity.UserEntity;
 
 import javax.persistence.*;
 

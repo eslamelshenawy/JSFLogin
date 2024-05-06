@@ -1,4 +1,4 @@
-package com.sparta.jk.entity;
+package com.entity;
 
 import javax.persistence.*;
 

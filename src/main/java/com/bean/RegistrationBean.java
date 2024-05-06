@@ -1,7 +1,7 @@
-package com.sparta.jk.bean;
+package com.bean;
 
-import com.sparta.jk.entity.UserEntity;
-import com.sparta.jk.service.UserRepository;
+import com.service.UserRepository;
+import com.entity.UserEntity;
 
 import javax.enterprise.context.RequestScoped;
 import javax.faces.application.FacesMessage;

@@ -1,7 +1,7 @@
-package com.sparta.jk.authentication;
+package com.authentication;
 
-import com.sparta.jk.entity.UserEntity;
-import com.sparta.jk.service.UserRepository;
+import com.service.UserRepository;
+import com.entity.UserEntity;
 
 import javax.security.enterprise.credential.Credential;
 import javax.security.enterprise.credential.UsernamePasswordCredential;

@@ -1,6 +1,6 @@
-package com.sparta.jk.bean;
+package com.bean;
 
-import com.sparta.jk.entity.UserEntity;
+import com.entity.UserEntity;
 
 
 import javax.enterprise.context.RequestScoped;
@@ -16,7 +16,6 @@ import javax.security.enterprise.credential.UsernamePasswordCredential;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.Collection;
 
 @Named
 @RequestScoped

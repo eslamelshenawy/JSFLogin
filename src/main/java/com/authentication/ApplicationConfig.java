@@ -1,4 +1,4 @@
-package com.sparta.jk.authentication;
+package com.authentication;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.faces.annotation.FacesConfig;
